@@ -1,2 +1,2 @@
 # CodeAlpha
-Completed beginner level tasks in python programming intern by CodeAlpha
+Completed tasks in python programming internship by CodeAlpha
